@@ -22,7 +22,7 @@ public class UserRegistration {
 				System.out.println("User registration failed.");
 			}
 			
-			addUser = Helper.readBoolean("Do you want to register anotehr user (Y/N)?");
+			addUser = Helper.readBoolean("Do you want to register another user (Y/N)?");
 		}
 		
 		System.out.println("Bye bye.");
